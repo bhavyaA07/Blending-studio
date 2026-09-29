@@ -1,0 +1,7 @@
+{
+  "name": "NCMRWF Unified Meteorological Blending Studio",
+  "description": "Ministry of Earth Sciences, Govt of India: Operational hybrid AI-NWP weather blending system fusing physical supercomputer ensembles (NCUM, ECMWF) with neural foundations (GraphCast, Pangu-Weather) over interactive real-time GIS cartography.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
